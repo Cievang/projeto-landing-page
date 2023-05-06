@@ -1,0 +1,17 @@
+Paleta em código hexadecimal:
+
+$thunder: #231c23;
+$soft-amber: #d3c5b7;
+$dove-gray: #6f6d6d;
+$oslo-gray: #8b8c8e;
+$squirrel: #94847c;
+$jumbo: #84848c;
+$abbey: #545457;
+$tundora: #474646;
+$abbey: #4d4c54;
+$tuna: #3c3c40;
+
+
+
+
+
